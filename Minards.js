@@ -5,482 +5,482 @@ function setup() {
   
   
   function draw() {
-    translate(-1000,3000);
-  pathData ={  "SurvData" :[
+    translattitudee(-1000,3000);
+  pathData ={  "SurvivalData" :[
       {
-        "div": 1,
-        "Surv": 340000, 
-        "lon": 24, 
-        "lat": 54.9,
-        "dir":"A"
+        "division": 1,
+        "surviving_army_men": 340000, 
+        "longitudegitude": 24, 
+        "lattitude": 54.9,
+        "direction":"A"
       },
       {
-        "div": 1,
-        "Surv": 340000, 
-        "lon": 24.5, 
-        "lat": 55,
-        "dir":"A"
+        "division": 1,
+        "surviving_army_men": 340000, 
+        "longitudegitude": 24.5, 
+        "lattitude": 55,
+        "direction":"A"
       },
       {
-        "div": 1,
-        "Surv": 340000, 
-        "lon": 25.5, 
-        "lat": 54.5,
-        "dir":"A"
+        "division": 1,
+        "surviving_army_men": 340000, 
+        "longitudegitude": 25.5, 
+        "lattitude": 54.5,
+        "direction":"A"
       },
       {
-        "div": 1,
-        "Surv": 320000, 
-        "lon": 26, 
-        "lat": 54.7,
-        "dir":"A"
+        "division": 1,
+        "surviving_army_men": 320000, 
+        "longitudegitude": 26, 
+        "lattitude": 54.7,
+        "direction":"A"
       },
       {
-        "div": 1,
-        "Surv": 300000, 
-        "lon": 27, 
-        "lat": 54.8,
-        "dir":"A"
+        "division": 1,
+        "surviving_army_men": 300000, 
+        "longitudegitude": 27, 
+        "lattitude": 54.8,
+        "direction":"A"
       },
       {
-        "div": 1,
-        "Surv": 280000, 
-        "lon": 28, 
-        "lat": 54.9,
-        "dir":"A"
+        "division": 1,
+        "surviving_army_men": 280000, 
+        "longitudegitude": 28, 
+        "lattitude": 54.9,
+        "direction":"A"
       },
       {
-        "div": 1,
-        "Surv": 240000, 
-        "lon": 28.5, 
-        "lat": 55,
-        "dir":"A"
+        "division": 1,
+        "surviving_army_men": 240000, 
+        "longitudegitude": 28.5, 
+        "lattitude": 55,
+        "direction":"A"
       },
       {
-        "div": 1,
-        "Surv": 210000, 
-        "lon": 29, 
-        "lat": 55.1,
-        "dir":"A"
+        "division": 1,
+        "surviving_army_men": 210000, 
+        "longitudegitude": 29, 
+        "lattitude": 55.1,
+        "direction":"A"
       },
       {
-        "div": 1,
-        "Surv": 180000, 
-        "lon": 30, 
-        "lat": 55.2,
-        "dir":"A"
+        "division": 1,
+        "surviving_army_men": 180000, 
+        "longitudegitude": 30, 
+        "lattitude": 55.2,
+        "direction":"A"
       },
       {
-        "div": 1,
-        "Surv": 175000, 
-        "lon": 30.3, 
-        "lat": 55.3,
-        "dir":"A"
+        "division": 1,
+        "surviving_army_men": 175000, 
+        "longitudegitude": 30.3, 
+        "lattitude": 55.3,
+        "direction":"A"
       },
       {
-        "div": 1,
-        "Surv": 145000, 
-        "lon": 32, 
-        "lat": 54.8,
-        "dir":"A"
+        "division": 1,
+        "surviving_army_men": 145000, 
+        "longitudegitude": 32, 
+        "lattitude": 54.8,
+        "direction":"A"
       },
       {
-        "div": 1,
-        "Surv": 140000, 
-        "lon": 33.2, 
-        "lat": 54.9,
-        "dir":"A"
+        "division": 1,
+        "surviving_army_men": 140000, 
+        "longitudegitude": 33.2, 
+        "lattitude": 54.9,
+        "direction":"A"
       },
       {
-        "div": 1,
-        "Surv": 127100, 
-        "lon": 34.4, 
-        "lat": 55.5,
-        "dir":"A"
+        "division": 1,
+        "surviving_army_men": 127100, 
+        "longitudegitude": 34.4, 
+        "lattitude": 55.5,
+        "direction":"A"
       },
       {
-        "div": 1,
-        "Surv": 100000, 
-        "lon": 35.5, 
-        "lat": 55.4,
-        "dir":"A"
+        "division": 1,
+        "surviving_army_men": 100000, 
+        "longitudegitude": 35.5, 
+        "lattitude": 55.4,
+        "direction":"A"
       },
       {
-        "div": 1,
-        "Surv": 100000, 
-        "lon": 36, 
-        "lat": 55.5,
-        "dir":"A"
+        "division": 1,
+        "surviving_army_men": 100000, 
+        "longitudegitude": 36, 
+        "lattitude": 55.5,
+        "direction":"A"
       },
       {
-        "div": 1,
-        "Surv": 100000, 
-        "lon": 37.6, 
-        "lat": 55.8,
-        "dir":"R"
+        "division": 1,
+        "surviving_army_men": 100000, 
+        "longitudegitude": 37.6, 
+        "lattitude": 55.8,
+        "direction":"R"
       },
       {
-        "div": 1,
-        "Surv": 98000, 
-        "lon": 37.5, 
-        "lat": 55.7,
-        "dir":"R"
+        "division": 1,
+        "surviving_army_men": 98000, 
+        "longitudegitude": 37.5, 
+        "lattitude": 55.7,
+        "direction":"R"
       },
       {
-        "div": 1,
-        "Surv": 97000, 
-        "lon": 37, 
-        "lat": 55,
-        "dir":"R"
+        "division": 1,
+        "surviving_army_men": 97000, 
+        "longitudegitude": 37, 
+        "lattitude": 55,
+        "direction":"R"
       },
       {
-        "div": 1,
-        "Surv": 96000, 
-        "lon": 36.8, 
-        "lat": 55,
-        "dir":"R"
+        "division": 1,
+        "surviving_army_men": 96000, 
+        "longitudegitude": 36.8, 
+        "lattitude": 55,
+        "direction":"R"
       },
       {
-        "div": 1,
-        "Surv": 87000, 
-        "lon": 35.4, 
-        "lat": 55.3,
-        "dir":"R"
+        "division": 1,
+        "surviving_army_men": 87000, 
+        "longitudegitude": 35.4, 
+        "lattitude": 55.3,
+        "direction":"R"
       },
       {
-        "div": 1,
-        "Surv": 55000, 
-        "lon": 34.3, 
-        "lat": 55.2,
-        "dir":"R"
+        "division": 1,
+        "surviving_army_men": 55000, 
+        "longitudegitude": 34.3, 
+        "lattitude": 55.2,
+        "direction":"R"
       },
       {
-        "div": 1,
-        "Surv": 37000, 
-        "lon": 33.3, 
-        "lat": 54.9,
-        "dir":"R"
+        "division": 1,
+        "surviving_army_men": 37000, 
+        "longitudegitude": 33.3, 
+        "lattitude": 54.9,
+        "direction":"R"
       },
       {
-        "div": 1,
-        "Surv": 24000, 
-        "lon": 32, 
-        "lat": 54.6,
-        "dir":"R"
+        "division": 1,
+        "surviving_army_men": 24000, 
+        "longitudegitude": 32, 
+        "lattitude": 54.6,
+        "direction":"R"
       },
       {
-        "div": 1,
-        "Surv": 20000, 
-        "lon": 30.4, 
-        "lat": 54.4,
-        "dir":"R"
+        "division": 1,
+        "surviving_army_men": 20000, 
+        "longitudegitude": 30.4, 
+        "lattitude": 54.4,
+        "direction":"R"
       },
       {
-        "div": 1,
-        "Surv": 20000, 
-        "lon": 29.2, 
-        "lat": 54.4,
-        "dir":"R"
+        "division": 1,
+        "surviving_army_men": 20000, 
+        "longitudegitude": 29.2, 
+        "lattitude": 54.4,
+        "direction":"R"
       },
       {
-        "div": 1,
-        "Surv": 20000, 
-        "lon": 28.5, 
-        "lat": 54.3,
-        "dir":"R"
+        "division": 1,
+        "surviving_army_men": 20000, 
+        "longitudegitude": 28.5, 
+        "lattitude": 54.3,
+        "direction":"R"
       },
       {
-        "div": 1,
-        "Surv": 20000, 
-        "lon": 28.3, 
-        "lat": 54.4,
-        "dir":"R"
+        "division": 1,
+        "surviving_army_men": 20000, 
+        "longitudegitude": 28.3, 
+        "lattitude": 54.4,
+        "direction":"R"
       },
       {
-        "div": 2,
-        "Surv": 60000, 
-        "lon": 24, 
-        "lat": 55.1,
-        "dir":"A"
+        "division": 2,
+        "surviving_army_men": 60000, 
+        "longitudegitude": 24, 
+        "lattitude": 55.1,
+        "direction":"A"
       },
       {
-        "div": 2,
-        "Surv": 60000, 
-        "lon": 24.5, 
-        "lat": 55.2,
-        "dir":"A"
+        "division": 2,
+        "surviving_army_men": 60000, 
+        "longitudegitude": 24.5, 
+        "lattitude": 55.2,
+        "direction":"A"
       },
       {
-        "div": 2,
-        "Surv": 60000, 
-        "lon": 25.5, 
-        "lat": 54.7,
-        "dir":"A"
+        "division": 2,
+        "surviving_army_men": 60000, 
+        "longitudegitude": 25.5, 
+        "lattitude": 54.7,
+        "direction":"A"
       },
       {
-        "div": 2,
-        "Surv": 40000, 
-        "lon": 26.6, 
-        "lat": 55.7,
-        "dir":"A"
+        "division": 2,
+        "surviving_army_men": 40000, 
+        "longitudegitude": 26.6, 
+        "lattitude": 55.7,
+        "direction":"A"
       },
       {
-        "div": 2,
-        "Surv": 33000, 
-        "lon": 27.4, 
-        "lat": 55.6,
-        "dir":"A"
+        "division": 2,
+        "surviving_army_men": 33000, 
+        "longitudegitude": 27.4, 
+        "lattitude": 55.6,
+        "direction":"A"
       },
       {
-        "div": 2,
-        "Surv": 30000, 
-        "lon": 28.7, 
-        "lat": 55.5,
-        "dir":"R"
+        "division": 2,
+        "surviving_army_men": 30000, 
+        "longitudegitude": 28.7, 
+        "lattitude": 55.5,
+        "direction":"R"
       },
       {
-        "div": 2,
-        "Surv": 30000, 
-        "lon": 29.2, 
-        "lat": 54.3,
-        "dir":"R"
+        "division": 2,
+        "surviving_army_men": 30000, 
+        "longitudegitude": 29.2, 
+        "lattitude": 54.3,
+        "direction":"R"
       },
       {
-        "div": 2,
-        "Surv": 30000, 
-        "lon": 28.5, 
-        "lat": 54.2,
-        "dir":"R"
+        "division": 2,
+        "surviving_army_men": 30000, 
+        "longitudegitude": 28.5, 
+        "lattitude": 54.2,
+        "direction":"R"
       },
       {
-        "div": 2,
-        "Surv": 28000, 
-        "lon": 28.3, 
-        "lat": 54.3,
-        "dir":"R"
+        "division": 2,
+        "surviving_army_men": 28000, 
+        "longitudegitude": 28.3, 
+        "lattitude": 54.3,
+        "direction":"R"
       },
       {
-        "div": 2,
-        "Surv": 20000, 
-        "lon": 27.5, 
-        "lat": 54.5,
-        "dir":"R"
+        "division": 2,
+        "surviving_army_men": 20000, 
+        "longitudegitude": 27.5, 
+        "lattitude": 54.5,
+        "direction":"R"
       },
       {
-        "div": 2,
-        "Surv": 12000, 
-        "lon": 26.8, 
-        "lat": 54.3,
-        "dir":"R"
+        "division": 2,
+        "surviving_army_men": 12000, 
+        "longitudegitude": 26.8, 
+        "lattitude": 54.3,
+        "direction":"R"
       },
       {
-        "div": 2,
-        "Surv": 14000, 
-        "lon": 26.4, 
-        "lat": 54.4,
-        "dir":"R"
+        "division": 2,
+        "surviving_army_men": 14000, 
+        "longitudegitude": 26.4, 
+        "lattitude": 54.4,
+        "direction":"R"
       },
       {
-        "div": 2,
-        "Surv": 8000, 
-        "lon": 24.6, 
-        "lat": 54.5,
-        "dir":"R"
+        "division": 2,
+        "surviving_army_men": 8000, 
+        "longitudegitude": 24.6, 
+        "lattitude": 54.5,
+        "direction":"R"
       },
       {
-        "div": 2,
-        "Surv": 4000, 
-        "lon": 24.4, 
-        "lat": 54.4,
-        "dir":"R"
+        "division": 2,
+        "surviving_army_men": 4000, 
+        "longitudegitude": 24.4, 
+        "lattitude": 54.4,
+        "direction":"R"
       },
       {
-        "div": 2,
-        "Surv": 4000, 
-        "lon": 24.2, 
-        "lat": 54.4,
-        "dir":"R"
+        "division": 2,
+        "surviving_army_men": 4000, 
+        "longitudegitude": 24.2, 
+        "lattitude": 54.4,
+        "direction":"R"
       },
       {
-        "div": 2,
-        "Surv": 4000, 
-        "lon": 24.1, 
-        "lat": 54.3,
-        "dir":"R"
+        "division": 2,
+        "surviving_army_men": 4000, 
+        "longitudegitude": 24.1, 
+        "lattitude": 54.3,
+        "direction":"R"
       },
       {
-        "div": 3,
-        "Surv": 22000, 
-        "lon": 24, 
-        "lat": 55.2,
-        "dir":"A"
+        "division": 3,
+        "surviving_army_men": 22000, 
+        "longitudegitude": 24, 
+        "lattitude": 55.2,
+        "direction":"A"
       },
       {
-        "div": 3,
-        "Surv": 22000, 
-        "lon": 24.5, 
-        "lat": 55.3,
-        "dir":"A"
+        "division": 3,
+        "surviving_army_men": 22000, 
+        "longitudegitude": 24.5, 
+        "lattitude": 55.3,
+        "direction":"A"
       },
       {
-        "div": 3,
-        "Surv": 6000, 
-        "lon": 24.6, 
-        "lat": 55.8,
-        "dir":"R"
+        "division": 3,
+        "surviving_army_men": 6000, 
+        "longitudegitude": 24.6, 
+        "lattitude": 55.8,
+        "direction":"R"
       },
       {
-        "div": 3,
-        "Surv": 6000, 
-        "lon": 24.2, 
-        "lat": 54.4,
-        "dir":"R"
+        "division": 3,
+        "surviving_army_men": 6000, 
+        "longitudegitude": 24.2, 
+        "lattitude": 54.4,
+        "direction":"R"
       },
       {
-        "div": 3,
-        "Surv": 6000, 
-        "lon": 24.1, 
-        "lat": 54.3,
-        "dir":"R"
+        "division": 3,
+        "surviving_army_men": 6000, 
+        "longitudegitude": 24.1, 
+        "lattitude": 54.3,
+        "direction":"R"
       }
     ],
       cities:[
       {
-        "lon": 24, 
-        "lat": 55,
-        "name":"Kowno"
+        "longitudegitude": 24, 
+        "lattitude": 55,
+        "city":"Kowno"
       },
       {
-        "lon": 25.3, 
-        "lat": 54.7,
-        "name":"Wilna"
+        "longitudegitude": 25.3, 
+        "lattitude": 54.7,
+        "city":"Wilna"
       },
       {
-        "lon": 26.4, 
-        "lat": 54.4,
-        "name":"Smorgoni"
+        "longitudegitude": 26.4, 
+        "lattitude": 54.4,
+        "city":"Smorgoni"
       },
       {
-        "lon": 26.8, 
-        "lat": 54.3,
-        "name":"Molodexno"
+        "longitudegitude": 26.8, 
+        "lattitude": 54.3,
+        "city":"Molodexno"
       },
       {
-        "lon": 27.7, 
-        "lat": 55.2,
-        "name":"Gloubokoe"
+        "longitudegitude": 27.7, 
+        "lattitude": 55.2,
+        "city":"Gloubokoe"
       },
       {
-        "lon": 27.6, 
-        "lat": 53.9,
-        "name":"Minsk"
+        "longitudegitude": 27.6, 
+        "lattitude": 53.9,
+        "city":"Minsk"
       },
       {
-        "lon": 28.5, 
-        "lat": 54.3,
-        "name":"Studienska"
+        "longitudegitude": 28.5, 
+        "lattitude": 54.3,
+        "city":"Studienska"
       },
       {
-        "lon": 28.7, 
-        "lat": 55.5,
-        "name":"Polotzk"
+        "longitudegitude": 28.7, 
+        "lattitude": 55.5,
+        "city":"Polotzk"
       },
       {
-        "lon": 29.2, 
-        "lat": 54.4,
-        "name":"Bobr"
+        "longitudegitude": 29.2, 
+        "lattitude": 54.4,
+        "city":"Bobr"
       },
       {
-        "lon": 30.2, 
-        "lat": 55.3,
-        "name":"Witebsk"
+        "longitudegitude": 30.2, 
+        "lattitude": 55.3,
+        "city":"Witebsk"
       },
       {
-        "lon": 30.4, 
-        "lat": 54.5,
-        "name":"Orscha"
+        "longitudegitude": 30.4, 
+        "lattitude": 54.5,
+        "city":"Orscha"
       },
       {
-        "lon": 30.4, 
-        "lat": 53.9,
-        "name":"Mohilow"
+        "longitudegitude": 30.4, 
+        "lattitude": 53.9,
+        "city":"Mohilow"
       },
       {
-        "lon": 32, 
-        "lat": 54.8,
-        "name":"Smolensk"
+        "longitudegitude": 32, 
+        "lattitude": 54.8,
+        "city":"Smolensk"
       },
       {
-        "lon": 33.2, 
-        "lat": 54.9,
-        "name":"Dorogobouge"
+        "longitudegitude": 33.2, 
+        "lattitude": 54.9,
+        "city":"Dorogobouge"
       },
       {
-        "lon": 34.3, 
-        "lat": 55.2,
-        "name":"Wixma"
+        "longitudegitude": 34.3, 
+        "lattitude": 55.2,
+        "city":"Wixma"
       },
       {
-        "lon": 34.4, 
-        "lat": 55.5,
-        "name":"Chjat"
+        "longitudegitude": 34.4, 
+        "lattitude": 55.5,
+        "city":"Chjat"
       },
       {
-        "lon": 36, 
-        "lat": 55.5,
-        "name":"Mojaisk"
+        "longitudegitude": 36, 
+        "lattitude": 55.5,
+        "city":"Mojaisk"
       },
       {
-        "lon": 37.6, 
-        "lat": 55.8,
-        "name":"Moscou"
+        "longitudegitude": 37.6, 
+        "lattitude": 55.8,
+        "city":"Moscou"
       },
       {
-        "lon": 36.6, 
-        "lat": 55.3,
-        "name":"Tarantino"
+        "longitudegitude": 36.6, 
+        "lattitude": 55.3,
+        "city":"Tarantino"
       },
       {
-        "lon": 36.5, 
-        "lat": 55,
-        "name":"Malo-jarosewli"
+        "longitudegitude": 36.5, 
+        "lattitude": 55,
+        "city":"Malo-jarosewli"
       }],
-      temperature:[
+      temperatureerature:[
       {
-        "temp":0,
-        "lon":37.6
+        "temperature":0,
+        "longitudegitude":37.6
       },
       {
-        "temp":0,
-        "lon":36
+        "temperature":0,
+        "longitudegitude":36
       },
       {
-        "temp":-9,
-        "lon":33.2
+        "temperature":-9,
+        "longitudegitude":33.2
       },
       {
-        "temp":-21,
-        "lon":32
+        "temperature":-21,
+        "longitudegitude":32
       },
       {
-        "temp":-11,
-        "lon":29.2
+        "temperature":-11,
+        "longitudegitude":29.2
       },
       {
-        "temp":-20,
-        "lon":28.5
+        "temperature":-20,
+        "longitudegitude":28.5
       },
       {
-        "temp":-24,
-        "lon":27.2
+        "temperature":-24,
+        "longitudegitude":27.2
       },
       {
-        "temp":-30,
-        "lon":26.7
+        "temperature":-30,
+        "longitudegitude":26.7
       },
       {
-        "temp":-26,
-        "lon":25.3
+        "temperature":-26,
+        "longitudegitude":25.3
       }
       
       ]
@@ -489,47 +489,47 @@ function setup() {
     var factorx = 70;
     var factory = 52;
     draw_graph();
-    for(i=1;i<pathData.temperature.length;i++){
+    for(i=1;i<pathData.temperatureerature.length;i++){
         strokeWeight(5);
         stroke('red');
-        line((pathData.temperature[i-1].lon*factorx),-((2500+(factor*pathData.temperature[i-1].temp))),(pathData.temperature[i].lon*factorx),-((2500+(factor*pathData.temperature[i].temp))));
+        line((pathData.temperatureerature[i-1].longitudegitude*factorx),-((2500+(factor*pathData.temperatureerature[i-1].temperature))),(pathData.temperatureerature[i].longitude*factorx),-((2500+(factor*pathData.temperatureerature[i].temperature))));
     }
-    for(var i = 0; i < pathData.SurvData.length; i++){
-      if(pathData.SurvData[i].dir == 'R' && pathData.SurvData[i-1].dir == 'R'){
-        strokeWeight(pathData.SurvData[i].Surv/11000);
+    for(var i = 0; i < pathData.SurvivalData.length; i++){
+      if(pathData.SurvivalData[i].direction == 'R' && pathData.SurvivalData[i-1].direction == 'R'){
+        strokeWeight(pathData.SurvivalData[i].Surv/11000);
         stroke('green');
-        line(pathData.SurvData[i-1].lon*factorx, -(pathData.SurvData[i-1].lat*factory), pathData.SurvData[i].lon*factorx, -(pathData.SurvData[i].lat*factory));
+        line(pathData.SurvivalData[i-1].longitude*factorx, -(pathData.SurvivalData[i-1].lattitude*factory), pathData.SurvivalData[i].longitude*factorx, -(pathData.SurvivalData[i].lattitude*factory));
       }
     }
-    for(var i = 1; i < pathData.SurvData.length; i++){
-      if(pathData.SurvData[i].dir == 'A' && pathData.SurvData[i-1].dir == 'A'){
-        strokeWeight(pathData.SurvData[i].Surv/11000);
+    for(var i = 1; i < pathData.SurvivalData.length; i++){
+      if(pathData.SurvivalData[i].direction == 'A' && pathData.SurvivalData[i-1].direction == 'A'){
+        strokeWeight(pathData.SurvivalData[i].surviving_army_men/11000);
         stroke('red');
-        line(pathData.SurvData[i-1].lon*factorx, -(pathData.SurvData[i-1].lat*factory), pathData.SurvData[i].lon*factorx, -(pathData.SurvData[i].lat*factory));
+        line(pathData.SurvivalData[i-1].longitude*factorx, -(pathData.SurvivalData[i-1].lattitude*factory), pathData.SurvivalData[i].longitude*factorx, -(pathData.SurvivalData[i].lattitude*factory));
       }
 
-      if((pathData.SurvData[i-1].dir == 'A' && pathData.SurvData[i].dir == 'R')){
-        strokeWeight(pathData.SurvData[i].Surv/11000);
+      if((pathData.SurvivalData[i-1].direction == 'A' && pathData.SurvivalData[i].direction == 'R')){
+        strokeWeight(pathData.SurvivalData[i].surviving_army_men/11000);
         stroke('red');
-        line(pathData.SurvData[i-1].lon*factorx, -(pathData.SurvData[i-1].lat*factory), pathData.SurvData[i].lon*factorx, -(pathData.SurvData[i].lat*factory));
+        line(pathData.SurvivalData[i-1].longitude*factorx, -(pathData.SurvivalData[i-1].lattitude*factory), pathData.SurvivalData[i].longitude*factorx, -(pathData.SurvivalData[i].lattitude*factory));
       }
     }
 
     for(i=0;i<pathData.cities.length;i++){
       stroke(0);
       strokeWeight(5);
-      point(pathData.cities[i].lon*factorx,-(pathData.cities[i].lat*factory)); //x,-y for scaling of axis
+      point(pathData.cities[i].longitude*factorx,-(pathData.cities[i].lattitude*factory)); //x,-y for scaling of axis
       strokeWeight(0);
       textSize(12);
-      text(pathData.cities[i].name,(pathData.cities[i].lon*factorx),-((pathData.cities[i].lat*factory)));
+      text(pathData.cities[i].city,(pathData.cities[i].longitude*factorx),-((pathData.cities[i].lattitude*factory)));
   }
   var arr = [];
-  for(var i = 0; i < pathData.SurvData.length; i++){
-      arr[i] = pathData.SurvData[i].lon;
+  for(var i = 0; i < pathData.SurvivalData.length; i++){
+      arr[i] = pathData.SurvivalData[i].longitude;
   }
-  var max_val_survdata = Math.max(...arr);
-  var min_val_survdata = Math.min(...arr);
-  var diff = max_val_survdata - min_val_survdata;
+  var max_val_SurvivalData = Math.max(...arr);
+  var min_val_SurvivalData = Math.min(...arr);
+  var diff = max_val_SurvivalData - min_val_SurvivalData;
   console.log(diff);
 }  
 
@@ -540,26 +540,26 @@ function draw_graph(){
     fill('#b3b3b3');
     strokeWeight(0);
     textSize(70);
-    text('Temperature (C)',(-600+pathData.temperature[0].lon*factorx), -((2500 + (factor*pathData.temperature[0].temp) - 70)));
+    text('temperatureerature (C)',(-600+pathData.temperatureerature[0].longitude*factorx), -((2500 + (factor*pathData.temperatureerature[0].temperature) - 70)));
     stroke('black');
     strokeWeight(3);
-    line((pathData.temperature[0].lon*factorx),-((2500+(factor*pathData.temperature[0].temp))),(pathData.temperature[0].lon*factorx),-((2470+(factor*pathData.temperature[pathData.temperature.length-1].temp))));
-    line((pathData.temperature[0].lon*factorx),-((2470+(factor*pathData.temperature[pathData.temperature.length-1].temp))),(pathData.temperature[pathData.temperature.length-1].lon*factorx),-((2470+(factor*pathData.temperature[pathData.temperature.length-1].temp))));
+    line((pathData.temperatureerature[0].longitude*factorx),-((2500+(factor*pathData.temperatureerature[0].temperature))),(pathData.temperatureerature[0].longitude*factorx),-((2470+(factor*pathData.temperatureerature[pathData.temperatureerature.length-1].temperature))));
+    line((pathData.temperatureerature[0].longitude*factorx),-((2470+(factor*pathData.temperatureerature[pathData.temperatureerature.length-1].temperature))),(pathData.temperatureerature[pathData.temperatureerature.length-1].longitude*factorx),-((2470+(factor*pathData.temperatureerature[pathData.temperatureerature.length-1].temperature))));
     //strokeWeight(8);
-    var len = (((2500+(pathData.temperature[0].temp*factorx)))-((2470+(factor*pathData.temperature[pathData.temperature.length-1].temp)))) / 9;
-    y_pt = (2500 + (pathData.temperature[0].temp*factorx));
+    var len = (((2500+(pathData.temperatureerature[0].temperature*factorx)))-((2470+(factor*pathData.temperatureerature[pathData.temperatureerature.length-1].temperature)))) / 9;
+    y_pt = (2500 + (pathData.temperatureerature[0].temperature*factorx));
     var j = 0;
-    for(var i = 0; i < pathData.temperature.length; i++){
+    for(var i = 0; i < pathData.temperatureerature.length; i++){
         stroke('black');
         strokeWeight(1);
-        line((pathData.temperature[0].lon*factorx), -(y_pt),(pathData.temperature[pathData.temperature.length-1].lon*factorx),-(y_pt));
+        line((pathData.temperatureerature[0].longitude*factorx), -(y_pt),(pathData.temperatureerature[pathData.temperatureerature.length-1].longitude*factorx),-(y_pt));
         stroke('black');
         strokeWeight(8);
-        point((pathData.temperature[0].lon*factorx), -(y_pt));
+        point((pathData.temperatureerature[0].longitude*factorx), -(y_pt));
         strokeWeight(0);
         fill('black')
         textSize(10);
-        text(-j,(10 + pathData.temperature[0].lon*factorx), -(y_pt));
+        text(-j,(10 + pathData.temperatureerature[0].longitude*factorx), -(y_pt));
         y_pt = y_pt - len;
         j = j + 5;
     } 
